@@ -28,6 +28,30 @@
   color: #61dafb;
 }
 
+.disp {
+  margin: 10px;
+  height: 30px;
+  width: 206px;
+  border: 2px solid #ccc;
+  font-size: 18px;
+  text-align: right;
+}
+
+.numbtn {
+  margin: 2px;
+  width: 50px;
+  height: 50px;
+  font-size: 18px;
+  background-color: #f80;
+}
+
+.opbtn {
+  margin: 2px;
+  width: 50px;
+  height: 50px;
+  font-size: 18px;
+  background-color: #f80;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
